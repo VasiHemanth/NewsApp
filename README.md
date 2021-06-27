@@ -12,11 +12,11 @@ News API provides an API which allows developers to use in their project to show
 
 Here in this project three categories are used 
 
-1.General
+1. General
 
-2.Business
+2. Business
 
-3.Technology
+3. Technology
 
 ## Dependencies
 
