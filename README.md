@@ -36,7 +36,7 @@ Copy the repo and run using following command
 ```bash
 npm start 
 ```
-or
+   or
 
 ```bash
 expo start 
