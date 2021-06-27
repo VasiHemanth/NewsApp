@@ -23,17 +23,22 @@ npm i -g expo-cli
 ```
 ## Third party libraries
 
-'Native-base'
+`Native-base`
 
 >https://nativebase.io/
 
-'Moment.js'
+`Moment.js`
 
 >https://momentjs.com/
 
 Copy the repo and run using following command
 
 ```bash
-  npm start or expo start
+npm start 
+```
+or
+
+```bash
+expo start 
 ```
 
